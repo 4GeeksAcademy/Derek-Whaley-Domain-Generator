@@ -1,0 +1,2 @@
+I didn't see anything about displaying the links on the webpage in the instructions so I just left them in the console. I wanted to add this in here as a note just in case I was supposed to add them to the page and anyone was confused. 
+They can still be viewed by following the instructions I added to the text on the page. If I did it correctly just disregard this.
